@@ -1,0 +1,37 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #802902;
+    line-height: 26pt;
+}
+
+li {
+    padding-left: 30px;
+}
+
+html{
+    background-color: #0b2c58;
+}
+
+.title {
+    margin-top: 0;
+    color: blue;
+    text-align: center;
+    font-size: 60px;
+    text-shadow: 3px 0px 0px #040e2d;
+}
+
+.container {
+    margin-top: 0;
+    margin-left: 26%;
+    margin-right: 26%;
+    background-color: #f79903;
+    border: 5px solid black;
+    padding: 18px;
+}
+
+.image {
+    height: 160px;
+    width: 170px;
+    display: block;
+    margin: auto;
+}
